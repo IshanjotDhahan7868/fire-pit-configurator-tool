@@ -1,0 +1,12 @@
+node_modules
+.pnpm-store
+.next
+.turbo
+__pycache__
+.pytest_cache
+.venv
+*.pyc
+.env
+.env.local
+apps/api/generated_emails
+apps/api/generated_pdfs

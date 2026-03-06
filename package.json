@@ -1,0 +1,15 @@
+{
+  "name": "fire-pit-configurator-platform",
+  "private": true,
+  "packageManager": "pnpm@9.15.0",
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "typecheck": "turbo run typecheck",
+    "test": "turbo run test"
+  },
+  "devDependencies": {
+    "turbo": "^2.2.3"
+  }
+}
